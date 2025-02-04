@@ -15,10 +15,9 @@ The airline database consists of multiple interconnected tables:
 - **Seats** – Defines seat arrangements, availability, and fare conditions for different aircraft.  
 
 ## Key Features  
-- Complex SQL queries for data retrieval and analysis  
-- Optimization techniques for query performance  
-- Real-world airline data insights using relational database concepts  
-- Application of advanced SQL methodologies  
+- Complex SQL queries for data retrieval and analysis,  
+- Joins, CTEs, Aggregation Functions and more,
+- Application of advanced SQL methodologies.
 
 ## Technologies Used  
 - SQL  
